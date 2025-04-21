@@ -52,8 +52,8 @@ Create a `data/dataset.json` file in the following format:
 
 ```json
 [
-  { "id": 1, "text": "The property tax rate in Travis County is 1.9% as of 2023." },
-  { "id": 2, "text": "GPT-4 is the most advanced language model by OpenAI." }
+  { "id": 1, "The COVID-19 vaccine is recommended for all individuals aged 6 months and older." },
+  { "id": 2, "Flu vaccines are updated annually to match the most common circulating strains." }
 ]
 ```
 
