@@ -25,7 +25,6 @@ __pycache__/
 *.pyo
 
 # ▶️ Dados de dataset e modelos
-data/
 datasets/
 *.csv
 *.tsv
