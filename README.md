@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 This is a simple and functional prototype for _LLM QA Retrieval_ that:
 
