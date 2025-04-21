@@ -19,8 +19,8 @@ This is a simple and functional prototype for _LLM QA Retrieval_ that:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/llm-retrieval-prototype.git
-cd llm-retrieval-prototype
+git clone https://github.com/derick1castro/AI_agent.git
+cd AI_agent
 ```
 
 ### 2. Create a virtual environment
