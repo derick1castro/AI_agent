@@ -1,0 +1,84 @@
+# ▶️ Ambientes Virtuais
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# ▶️ Arquivos de configuração e chaves
+*.env
+*.env.*
+.envrc
+
+# ▶️ Logs e temporários
+*.log
+logs/
+*.out
+*.tmp
+*.bak
+*.swp
+*~
+
+# ▶️ __pycache__ e arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ▶️ Dados de dataset e modelos
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.joblib
+
+# ▶️ Diretórios e arquivos gerados
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# ▶️ IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ▶️ Notebooks e cache
+.ipynb_checkpoints
+*.ipynb
+*.nbconvert.*
+
+# ▶️ Sistema Operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ▶️ PDFs e Relatórios
+*.pdf
+*.docx
+*.pptx
+*.html
+*.md.bak
+
+# ▶️ Docker
+docker-compose.override.yml
+docker-compose*.yml
+Dockerfile*
+.dockerignore
+
+# ▶️ Outros
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# ▶️ VSCode local settings
+.vscode/
